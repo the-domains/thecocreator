@@ -1,6 +1,6 @@
 name: TheCoCreator
 favicon: null
-layout_spectrum: 0.33232518238946795
+layout_spectrum: 0.25206
 typography_spectrum: 0.54841
 title: from selling to co-creating
 cta:
@@ -22,8 +22,8 @@ color:
     - '#F4AFAB'
     - '#F4EEA9'
     - '#F4F482'
-  brandStrength: 0.8470252114348114
-  lightness: 0.7166732172481716
-  saturation: 0.7560472839977592
+  brandStrength: 0.5
+  lightness: 0.5
+  saturation: 0.5
   rhythmicContrast: 0.25
 purpose: []
