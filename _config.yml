@@ -1,5 +1,8 @@
+name: TheCoCreator
+favicon: null
+layout_spectrum: 0.60017
+typography_spectrum: 0.63022
 title: from selling to co-creating
-purpose: []
 collections:
   - index:
       path: /
@@ -12,30 +15,27 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  saturation: 0.6875
-  brandStrength: 1
-  rhythmicContrast: 0.75
   brandColors:
     - '#C3BD9D'
     - '#ECE0C8'
     - '#080A07'
     - '#425E74'
     - '#8F623B'
-  lightness: 0.5
-cta:
-  bucket: null
-  version: null
-  domain: null
-analytics:
-  twitter: null
-  google: null
-  facebook: null
-name: TheCoCreator
-favicon: null
-opengraph:
-  image: null
-  type: null
-  appId: null
-typography_spectrum: 0.3723404
-layout_spectrum: 0.393617
+  brandStrength: 0.5
+  lightness: 0.75
+  saturation: 0.5
+  rhythmicContrast: 0.5
+purpose: []
